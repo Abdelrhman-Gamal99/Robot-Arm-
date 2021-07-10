@@ -1,8 +1,4 @@
-# Assignment 1: Robotic Arm
-## *Name* : Abdelrhman Gamal Ashour Mohammed
-## *section* : 1
-## *BN* : 46
------------------------------------
+# Robotic Arm
 # Description
 >  The Robotic arm consists of Shoulder , Elbow and five Fingers 
 - The shoulder rotates from 0 to 360 degree .
@@ -15,5 +11,3 @@
 ![image2](images/image_2.JPG)
 
 
-# problems :
-I faced a problem in controlling each finger indvidually and i solved it by using excess numbers of push and pop functions.
